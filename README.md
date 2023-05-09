@@ -1,11 +1,11 @@
 # AI Cover Song
 
 Cover your favorite song by your favorite singer. Here's mine.
-<p align="center"> <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Itsuki Nakano - Asmalibrasi (AI Cover)" > </a> </p>
+<p align="center"> <a href="https://youtu.be/wU6WnPl54HI"><img src="https://img.youtube.com/vi/wU6WnPl54HI/hqdefault.jpg" alt="Itsuki Nakano - Asmalibrasi (AI Cover)" > </a> </p>
 
 # How to
 
-Go to [Google Colab](https://github.com/reshalfahsi/AI-Cover-Song/AICoverSong.ipynb) and run all.
+Go to [Google Colab](https://github.com/reshalfahsi/AI-Cover-Song/blob/master/AICoverSong.ipynb) and run all.
 
 
 # Credit
