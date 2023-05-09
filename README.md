@@ -3,16 +3,16 @@
 Cover your favorite song by your favorite singer. Here's mine.
 <p align="center"> <a href="https://youtu.be/wU6WnPl54HI"><img src="https://img.youtube.com/vi/wU6WnPl54HI/hqdefault.jpg" alt="Itsuki Nakano - Asmalibrasi (AI Cover)" > </a> </p>
 
-# How to
+## How to
 
 Go to [Google Colab](https://github.com/reshalfahsi/AI-Cover-Song/blob/master/AICoverSong.ipynb) and run all.
 
 
-# Credit
+## Credit
 - [AI-Song-Cover-SOVITS](https://github.com/ardha27/AI-Song-Cover-SOVITS)
 - [SoftVC VITS Singing Voice Conversion Fork](https://github.com/voicepaw/so-vits-svc-fork)
 
 
-# Read More
+## Read More
 - [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/pdf/2106.07447.pdf)
 - [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/pdf/2106.06103.pdf)
